@@ -21,9 +21,6 @@ public class mobilku {
         this.merk = mrk;
         this.nama = nm;
     }
-    public void masuk_jenis() {
-        System.out.println("asd");
-    }
     public void masuk_spesifikasi(String jn, String cl){        
         this.warna=cl;
         this.jenis=jn;
